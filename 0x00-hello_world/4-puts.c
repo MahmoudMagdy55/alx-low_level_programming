@@ -3,9 +3,9 @@
 /**
  * main - Entery point 
  *
- * Description : C program
+ * Description : C program return puts fun
  *
- * Return : Alwats 0 (success)
+ * Return : Alwaysreturn puts fun 0 (success)
  */
 int main(void)
 {
